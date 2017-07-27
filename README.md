@@ -1,5 +1,5 @@
 # hello-world
 A short description
 
-A bit about mysefl
+A bit about myself
 
